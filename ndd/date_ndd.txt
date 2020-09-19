@@ -1,0 +1,14 @@
+
+
+free.fr
+notBefore=Jul 24 00:00:00 2019 GMT
+notAfter=Jul 23 12:00:00 2021 GMT
+
+google.fr
+notBefore=Aug 26 08:17:30 2020 GMT
+notAfter=Nov 18 08:17:30 2020 GMT
+
+it.izero.fr
+notBefore=Jul 24 20:21:51 2020 GMT
+notAfter=Oct 22 20:21:51 2020 GMT
+
