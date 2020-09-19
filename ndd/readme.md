@@ -3,10 +3,14 @@ https://it.izero.fr/script-bash-recuperer-la-validite-de-plusieurs-noms-de-domai
 
 
 ---
+
 Executer le script et rediriger le resultat dans un fichier 
+
 ./ndd.sh > date_ndd.txt
+
 ---
 ---
+
 Lister le fichier de sortie
 cat date_ndd.txt
 
@@ -21,7 +25,9 @@ notAfter=Nov 18 08:17:30 2020 GMT
 it.izero.fr
 notBefore=Jul 24 20:21:51 2020 GMT
 notAfter=Oct 22 20:21:51 2020 GMT
+
 ---
+
 
 En detail
 tree
